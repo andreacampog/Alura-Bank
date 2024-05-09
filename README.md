@@ -22,9 +22,9 @@
 
 ## Capturas de pantalla
 
-<p align="center" ><img src="./img/tablet.png" alt="captura-iphone" width=400px height=400px >
+<p align="center" ><img src="./img/tablet.png" alt="captura-iphone" width=400px height=600px >
 </p>
 
-<p align="center" ><img src="./img/mac__.png" alt="captura-iphone" width=400px height=400px >
+<p align="center" ><img src="./img/mac__.png" alt="captura-iphone" width=600px height=400px >
 </p>
 
